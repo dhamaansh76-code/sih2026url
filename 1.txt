@@ -1,1 +1,1 @@
-https://included-amendment-hanging-aim.trycloudflare.com
+https://api.trycloudflare.com
