@@ -1,1 +1,1 @@
-https://monday-expanding-lance-hire.trycloudflare.com
+https://api.trycloudflare.com
