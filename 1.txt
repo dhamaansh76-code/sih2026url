@@ -1,1 +1,1 @@
-https://tobago-keyword-kentucky-tiger.trycloudflare.com
+https://api.trycloudflare.com
