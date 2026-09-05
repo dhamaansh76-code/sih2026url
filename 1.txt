@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://nowhere-beaver-customs-luther.trycloudflare.com
